@@ -85,7 +85,7 @@ section {
 
   .navbar-brand:link,
   .navbar-brand:visited {
-    font-size: 12px;
+    font-size: 25px;
     color: #fff;
     margin-bottom: 3px;
   }
@@ -388,6 +388,7 @@ label {
 input[type=text],
 input[type="tel"],
 input[type=email],
+select,
 textarea {
   width: 50%;
   padding: 7px;
@@ -639,4 +640,20 @@ hr {
   background-image: url(../images/Open-Bible-Sitting-on-Table-Brightside-760x506.jpg);
   background-size: 1500px;
   padding: 50px 50px;
+}
+.home{
+  background-color: #dbc275;
+}
+#About{
+  background-color: #e3d1ff;
+}
+.register{
+  width: 400px;
+}
+select{
+  width: 400px;
+  height: 50px;
+}
+.registration{
+  display: none;
 }
