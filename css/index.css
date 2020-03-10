@@ -657,3 +657,22 @@ select{
 .registration{
   display: none;
 }
+.registration{
+  background-color: rgb(73, 38, 57);
+}
+#Services{
+  background-image: url(../images/front\ door.jpg);
+  color: #e8e8e8;
+  background-size: 1400px;
+  padding: 150px 150px;
+}
+#Services h3{
+  color: #e8e8e8;
+}
+#groups{
+  padding: 50px 50px;
+  background-color: gray;
+}
+#groups h3{
+  padding: 10px 10px;
+}
